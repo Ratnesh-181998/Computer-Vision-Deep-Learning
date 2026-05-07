@@ -39,6 +39,12 @@
 
 ---
 
+# [90% of deep learning projects start with PyTorch]()
+
+<img width="698" height="724" alt="image" src="https://github.com/user-attachments/assets/86b1cbff-db30-49d8-838e-d93e71116436" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
