@@ -43,6 +43,18 @@
 
 <img width="698" height="724" alt="image" src="https://github.com/user-attachments/assets/86b1cbff-db30-49d8-838e-d93e71116436" />
 
+
+---
+
+# [From Basics to Advanced!](https://github.com/udlbook/udlbook/tree/main/Notebooks)
+
+- The "Understanding Deep Learning" offers a hands-on, interactive pathway to mastering deep learning covering theory, fundamentals and cutting-edge methods.  Every chapter features practical hands-on Python notebooks you can run instantly.
+
+-[ It covers]()
+
+<img width="1070" height="678" alt="image" src="https://github.com/user-attachments/assets/419015b1-6a3f-45ae-894e-0f20853bd0a0" />
+
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
