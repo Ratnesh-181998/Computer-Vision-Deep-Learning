@@ -50,7 +50,7 @@
 
 - The "Understanding Deep Learning" offers a hands-on, interactive pathway to mastering deep learning covering theory, fundamentals and cutting-edge methods.  Every chapter features practical hands-on Python notebooks you can run instantly.
 
--[ It covers](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning/blob/main/UnderstandingDeepLearning_05_29_25_C.pdf)
+- [It covers](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning/blob/main/UnderstandingDeepLearning_05_29_25_C.pdf)
 
 <img width="1070" height="678" alt="image" src="https://github.com/user-attachments/assets/419015b1-6a3f-45ae-894e-0f20853bd0a0" />
 
